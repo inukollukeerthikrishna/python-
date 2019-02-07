@@ -1,5 +1,5 @@
 # python-
-num=int (input("enter a number"))
+num=input()
 if num>0:
 	print("Positive")
 elif num==0:
